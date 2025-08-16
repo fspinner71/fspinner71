@@ -1,4 +1,13 @@
-## Hi there 👋
+##About Me
+
+Hi, I'm Nathan. I am a student pursuing Computer Engineering, and I am passionate about software engineering, low-level game development and computer graphics.
+
+###Languages and Tools
+![C++](/icons/cpp.png) ![C#](/icons/cs.png) ![Java](/icons/java.png) ![Arch Linux](/icons/arch.png) ![OpenGL](/icons/opengl.png) ![SDL](/icons/sdl.png)
+
+###I'm currently working on...
+A [:plate_with_cutlery: cooking game with Wolfenstein 3D style raycasting](https://github.com/fspinner71/raycaster-cooking)!
+
 
 <!--
 **fspinner71/fspinner71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
