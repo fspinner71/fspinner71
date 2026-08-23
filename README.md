@@ -1,12 +1,12 @@
 # About Me :wave:
 
-Hi, I'm Nathan. I am a student pursuing Computer Engineering, and I am passionate about software engineering, low-level game development, and computer graphics.
+Hi, I'm Nathan. I am a student studying Computer Engineering at Georgia Tech, and I am passionate about software engineering, game development, and computer graphics.
 
 ### Languages and Tools
 <img src="/icons/cpp.png" alt="C++" width="48"/> <img src="/icons/cs.png" alt="C#" width="48"/> <img src="/icons/java.png" alt="Java" width="48"/> <img src="/icons/arch.png" alt="Arch Linux" width="48"/> <img src="/icons/opengl.png" alt="OpenGL" width="48"/> <img src="/icons/sdl.png" alt="SDL" width="48"/>
 
 ### I'm currently working on...
-A [cooking game with Wolfenstein 3D style raycasting](https://github.com/fspinner71/raycaster-cooking)!
+A [3D game engine](https://github.com/fspinner71/df-game-engine)!
 
 <img src="/images/banner.gif" alt="C++" width="400"/>
 
