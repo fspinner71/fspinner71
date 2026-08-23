@@ -8,7 +8,7 @@ Hi, I'm Nathan. I am a student studying Computer Engineering at Georgia Tech, an
 ### I'm currently working on...
 A [3D game engine](https://github.com/fspinner71/df-game-engine)!
 
-<img src="/images/banner.gif" alt="C++" width="400"/>
+<img src="/images/wallpaper.jpg" alt="I took this picture at the Grand Canyon!" width="400"/>
 
 <!--
 **fspinner71/fspinner71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
